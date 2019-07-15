@@ -24,6 +24,11 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/icons.css",
+              "src/assets/css/app.min.css",
+              "src/assets/css/app-dark.min.css",
+              "src/assets/css/keen-static.css",
+              "src/assets/css/keen-dashboards.css",
               "src/styles.css"
             ],
             "scripts": []
